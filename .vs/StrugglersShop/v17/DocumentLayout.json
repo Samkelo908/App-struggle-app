@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\source\\repos\\StrugglersShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{264948E4-3BA9-4357-B97C-39140D3755E3}|StrugglersShop\\StrugglersShop.csproj|c:\\users\\lab_services_student\\source\\repos\\strugglersshop\\strugglersshop\\userdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264948E4-3BA9-4357-B97C-39140D3755E3}|StrugglersShop\\StrugglersShop.csproj|solutionrelative:strugglersshop\\userdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264948E4-3BA9-4357-B97C-39140D3755E3}|StrugglersShop\\StrugglersShop.csproj|C:\\Users\\lab_services_student\\source\\repos\\StrugglersShop\\strugglersshop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{264948E4-3BA9-4357-B97C-39140D3755E3}|StrugglersShop\\StrugglersShop.csproj|solutionrelative:strugglersshop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264948E4-3BA9-4357-B97C-39140D3755E3}|StrugglersShop\\StrugglersShop.csproj|c:\\users\\lab_services_student\\source\\repos\\strugglersshop\\strugglersshop\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264948E4-3BA9-4357-B97C-39140D3755E3}|StrugglersShop\\StrugglersShop.csproj|solutionrelative:strugglersshop\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264948E4-3BA9-4357-B97C-39140D3755E3}|StrugglersShop\\StrugglersShop.csproj|c:\\users\\lab_services_student\\source\\repos\\strugglersshop\\strugglersshop\\login.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{264948E4-3BA9-4357-B97C-39140D3755E3}|StrugglersShop\\StrugglersShop.csproj|solutionrelative:strugglersshop\\login.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264948E4-3BA9-4357-B97C-39140D3755E3}|StrugglersShop\\StrugglersShop.csproj|c:\\users\\lab_services_student\\source\\repos\\strugglersshop\\strugglersshop\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264948E4-3BA9-4357-B97C-39140D3755E3}|StrugglersShop\\StrugglersShop.csproj|solutionrelative:strugglersshop\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264948E4-3BA9-4357-B97C-39140D3755E3}|StrugglersShop\\StrugglersShop.csproj|c:\\users\\lab_services_student\\source\\repos\\strugglersshop\\strugglersshop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264948E4-3BA9-4357-B97C-39140D3755E3}|StrugglersShop\\StrugglersShop.csproj|solutionrelative:strugglersshop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264948E4-3BA9-4357-B97C-39140D3755E3}|StrugglersShop\\StrugglersShop.csproj|c:\\users\\lab_services_student\\source\\repos\\strugglersshop\\strugglersshop\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264948E4-3BA9-4357-B97C-39140D3755E3}|StrugglersShop\\StrugglersShop.csproj|solutionrelative:strugglersshop\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264948E4-3BA9-4357-B97C-39140D3755E3}|StrugglersShop\\StrugglersShop.csproj|C:\\Users\\lab_services_student\\source\\repos\\StrugglersShop\\strugglersshop\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{264948E4-3BA9-4357-B97C-39140D3755E3}|StrugglersShop\\StrugglersShop.csproj|solutionrelative:strugglersshop\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\StrugglersShop\\StrugglersShop\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "StrugglersShop\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\StrugglersShop\\StrugglersShop\\Form1.Designer.cs",
+              "RelativeToolTip": "StrugglersShop\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T12:11:15.589Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Welcome.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\StrugglersShop\\StrugglersShop\\Welcome.cs",
+              "RelativeDocumentMoniker": "StrugglersShop\\Welcome.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\StrugglersShop\\StrugglersShop\\Welcome.cs [Design]",
+              "RelativeToolTip": "StrugglersShop\\Welcome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T14:11:18.418Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\StrugglersShop\\StrugglersShop\\Form1.cs",
+              "RelativeDocumentMoniker": "StrugglersShop\\Form1.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\StrugglersShop\\StrugglersShop\\Form1.cs",
+              "RelativeToolTip": "StrugglersShop\\Form1.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T11:42:49.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "login.txt",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\StrugglersShop\\StrugglersShop\\login.txt",
+              "RelativeDocumentMoniker": "StrugglersShop\\login.txt",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\StrugglersShop\\StrugglersShop\\login.txt",
+              "RelativeToolTip": "StrugglersShop\\login.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-25T12:29:09.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Welcome.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\StrugglersShop\\StrugglersShop\\Welcome.cs",
+              "RelativeDocumentMoniker": "StrugglersShop\\Welcome.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\StrugglersShop\\StrugglersShop\\Welcome.cs",
+              "RelativeToolTip": "StrugglersShop\\Welcome.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T14:11:31.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserDB.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\StrugglersShop\\StrugglersShop\\UserDB.cs",
+              "RelativeDocumentMoniker": "StrugglersShop\\UserDB.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\StrugglersShop\\StrugglersShop\\UserDB.cs",
+              "RelativeToolTip": "StrugglersShop\\UserDB.cs",
+              "ViewState": "AQIAAAEAAAAAAgAAAAAPwBIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T13:30:40.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\StrugglersShop\\StrugglersShop\\User.cs",
+              "RelativeDocumentMoniker": "StrugglersShop\\User.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\StrugglersShop\\StrugglersShop\\User.cs",
+              "RelativeToolTip": "StrugglersShop\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T13:29:26.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\StrugglersShop\\StrugglersShop\\Form1.cs",
+              "RelativeDocumentMoniker": "StrugglersShop\\Form1.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\StrugglersShop\\StrugglersShop\\Form1.cs [Design]",
+              "RelativeToolTip": "StrugglersShop\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T12:12:06.906Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

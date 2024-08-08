@@ -1,0 +1,17 @@
+C:\Users\lab_services_student\source\repos\StrugglersShop\StrugglersShop\obj\Debug\net8.0-windows\StrugglersShop.Form1.resources
+C:\Users\lab_services_student\source\repos\StrugglersShop\StrugglersShop\obj\Debug\net8.0-windows\StrugglersShop.csproj.GenerateResource.cache
+C:\Users\lab_services_student\source\repos\StrugglersShop\StrugglersShop\obj\Debug\net8.0-windows\StrugglersShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\source\repos\StrugglersShop\StrugglersShop\obj\Debug\net8.0-windows\StrugglersShop.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\source\repos\StrugglersShop\StrugglersShop\obj\Debug\net8.0-windows\StrugglersShop.AssemblyInfo.cs
+C:\Users\lab_services_student\source\repos\StrugglersShop\StrugglersShop\obj\Debug\net8.0-windows\StrugglersShop.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\StrugglersShop\StrugglersShop\bin\Debug\net8.0-windows\StrugglersShop.exe
+C:\Users\lab_services_student\source\repos\StrugglersShop\StrugglersShop\bin\Debug\net8.0-windows\StrugglersShop.deps.json
+C:\Users\lab_services_student\source\repos\StrugglersShop\StrugglersShop\bin\Debug\net8.0-windows\StrugglersShop.runtimeconfig.json
+C:\Users\lab_services_student\source\repos\StrugglersShop\StrugglersShop\bin\Debug\net8.0-windows\StrugglersShop.dll
+C:\Users\lab_services_student\source\repos\StrugglersShop\StrugglersShop\bin\Debug\net8.0-windows\StrugglersShop.pdb
+C:\Users\lab_services_student\source\repos\StrugglersShop\StrugglersShop\obj\Debug\net8.0-windows\StrugglersShop.dll
+C:\Users\lab_services_student\source\repos\StrugglersShop\StrugglersShop\obj\Debug\net8.0-windows\refint\StrugglersShop.dll
+C:\Users\lab_services_student\source\repos\StrugglersShop\StrugglersShop\obj\Debug\net8.0-windows\StrugglersShop.pdb
+C:\Users\lab_services_student\source\repos\StrugglersShop\StrugglersShop\obj\Debug\net8.0-windows\StrugglersShop.genruntimeconfig.cache
+C:\Users\lab_services_student\source\repos\StrugglersShop\StrugglersShop\obj\Debug\net8.0-windows\ref\StrugglersShop.dll
+C:\Users\lab_services_student\source\repos\StrugglersShop\StrugglersShop\obj\Debug\net8.0-windows\StrugglersShop.Welcome.resources
